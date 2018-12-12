@@ -1,0 +1,10 @@
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\bin\Debug\Backpropagation_proj01.exe.config
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\bin\Debug\Backpropagation_proj01.exe
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\bin\Debug\Backpropagation_proj01.pdb
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\obj\Debug\Backpropagation_proj01.csprojResolveAssemblyReference.cache
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\obj\Debug\Backpropagation_proj01.Form1.resources
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\obj\Debug\Backpropagation_proj01.Properties.Resources.resources
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\obj\Debug\Backpropagation_proj01.csproj.GenerateResource.Cache
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\obj\Debug\Backpropagation_proj01.csproj.CoreCompileInputs.cache
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\obj\Debug\Backpropagation_proj01.exe
+C:\Users\何信鋕\source\repos\Backpropagation_proj01\Backpropagation_proj01\obj\Debug\Backpropagation_proj01.pdb
